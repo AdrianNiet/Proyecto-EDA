@@ -109,6 +109,7 @@ appid,name
 22350,BRINK
 22370,Fallout 3: Game of the Year Edition
 22380,Fallout: New Vegas
+24010,Train Simulator Classic
 24200,DC Universe Online
 24240,PAYDAY The Heist
 24740,Burnout Paradise: The Ultimate Box
@@ -118,18 +119,20 @@ appid,name
 31280,Poker Night at the Inventory
 32370,STAR WARS Knights of the Old Republic
 32430,STAR WARS - The Force Unleashed Ultimate Sith Edition
-32470,STAR WARS Empire at War - Gold Pack
 32800,Lord of the Rings: War in the North
 33230,Assassin's Creed 2
 33900,Arma 2
 33930,Arma 2: Operation Arrowhead
 34030,Total War: NAPOLEON – Definitive Edition
 34270,SEGA Mega Drive and Genesis Classics
+34440,Sid Meier's Civilization IV
+34450,Civilization IV: Warlords
 34870,Sniper: Ghost Warrior 2
 35140,Batman: Arkham Asylum Game of the Year Edition
 35450,Red Orchestra 2: Heroes of Stalingrad with Rising Storm
 35700,Trine Enchanted Edition
 35720,Trine 2: Complete Story
+38400,Fallout: A Post Nuclear Role Playing Game
 38420,Fallout Tactics: Brotherhood of Steel
 39000,Moonbase Alpha
 39120,RIFT
@@ -139,25 +142,22 @@ appid,name
 40100,Supreme Commander 2
 40800,Super Meat Boy
 40950,Stronghold HD
-40970,Stronghold Crusader HD
 40990,Mafia
 41000,Serious Sam HD: The First Encounter
-41070,Serious Sam 3: BFE
 41500,Torchlight
 41700,S.T.A.L.K.E.R.: Call of Pripyat
+42680,Call of Duty: Modern Warfare 3 (2011)
 42700,Call of Duty: Black Ops
+42710,Call of Duty: Black Ops
 42910,Magicka
-42960,Victoria II
 47780,Dead Space 2
 47790,Medal of Honor
 47810,Dragon Age: Origins - Ultimate Edition
-47870,Need For Speed: Hot Pursuit
 47890,The Sims 3
 48000,LIMBO
 48190,Assassin’s Creed Brotherhood
 48700,Mount & Blade: Warband
 49520,Borderlands 2
-49540,Aliens: Colonial Marines Collection
 50130,Mafia II (Classic)
 50300,Spec Ops: The Line
 50620,Darksiders
@@ -214,11 +214,11 @@ appid,name
 203770,Crusader Kings II
 204100,Max Payne 3
 204300,Awesomenauts - the 2D moba
-204340,Serious Sam 2
 204360,Castle Crashers
 204450,Call of Juarez: Gunslinger
 204880,Sins of a Solar Empire: Rebellion
 205100,Dishonored
+205230,Hell Yeah! Wrath of the Dead Rabbit
 206210,Gotham City Impostors Free to Play
 206420,Saints Row IV: Re-Elected
 206440,To the Moon
@@ -255,9 +255,9 @@ appid,name
 215080,WAKFU
 215280,Secret World Legends
 216150,MapleStory
-217200,Worms Armageddon
 218230,PlanetSide 2
 218620,PAYDAY 2
+218680,Scribblenauts Unlimited
 219150,Hotline Miami
 219640,Chivalry: Medieval Warfare
 219740,Don't Starve
@@ -281,17 +281,18 @@ appid,name
 225260,Brutal Legend
 225540,Just Cause 3
 225840,Sven Co-op
-226700,Infestation: Survivor Stories 2020
 226840,Age of Wonders III
 227300,Euro Truck Simulator 2
 227940,Heroes & Generals
 228200,Company of Heroes
 228280,Baldur's Gate: Enhanced Edition
 228380,Wreckfest
+230230,Divinity: Original Sin (Classic)
 230290,Universe Sandbox
 230410,Warframe
 231060,Ragnarok Online 2
 231430,Company of Heroes 2
+232050,Eador. Masters of the Broken World
 232090,Killing Floor 2
 232770,POSTAL
 232890,Stronghold Crusader 2
@@ -324,8 +325,8 @@ appid,name
 239200,Amnesia: A Machine for Pigs
 239350,Spelunky
 239820,Game Dev Tycoon
-240320,Panzar
 240720,Getting Over It with Bennett Foddy
+241600,Rogue Legacy
 241930,Middle-earth: Shadow of Mordor
 242050,Assassin’s Creed IV Black Flag
 242640,Styx: Master of Shadows
@@ -338,7 +339,6 @@ appid,name
 244210,Assetto Corsa
 244450,Men of War: Assault Squad 2
 244850,Space Engineers
-244930,SNOW - The Ultimate Edition
 245170,Skullgirls 2nd Encore
 245620,Tropico 5
 246620,Plague Inc: Evolved
@@ -385,6 +385,7 @@ appid,name
 265930,Goat Simulator
 266840,Age of Mythology: Extended Edition
 268050,The Evil Within
+268420,Aura Kingdom
 268500,XCOM 2
 268910,Cuphead
 269210,Hero Siege
@@ -396,11 +397,13 @@ appid,name
 273350,Evolve Stage 2
 274170,Hotline Miami 2: Wrong Number
 274190,Broforce
+274940,Depth
 275390,Guacamelee! Super Turbo Championship Edition
 275850,No Man's Sky
 278080,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition
 278360,A Story About My Uncle
 279720,The I of the Dragon
+280790,Creativerse
 281990,Stellaris
 282070,This War of Mine
 282140,SOMA
@@ -482,6 +485,7 @@ appid,name
 324800,Shadow Warrior 2
 325610,Total War: ATTILA
 327690,Gigantic
+329050,Devil May Cry 4 Special Edition
 330020,Children of Morta
 331470,Everlasting Summer
 332070,School of Dragons
@@ -526,12 +530,14 @@ appid,name
 367520,Hollow Knight
 368230,Kingdom: Classic
 368260,Marvel's Midnight Suns
+368370,Her Story
 368500,Assassin's Creed Syndicate
 370910,Kathy Rain
 372000,Tree of Savior (English Ver.)
 373420,Divinity: Original Sin - Enhanced Edition
 374040,Portal Knights
 374320,DARK SOULS III
+376210,The Isle
 377160,Fallout 4
 378540,The Surge
 378860,Project CARS 2
@@ -579,7 +585,7 @@ appid,name
 418240,Shadow Tactics: Blades of the Shogun
 418370,Resident Evil 7 Biohazard
 418460,Rising Storm 2: Vietnam
-423230,Furi
+424280,Iron Snout
 424370,Wolcen: Lords of Mayhem
 424840,Little Nightmares
 427270,Orcs Must Die! Unchained
@@ -592,6 +598,7 @@ appid,name
 433850,Z1 Battle Royale
 434650,Lost Castle / 失落城堡
 435150,Divinity: Original Sin 2 - Definitive Edition
+436150,Governor of Poker 3
 436520,Line of Sight
 437220,The Culling
 437900,Party Jousting
@@ -617,7 +624,6 @@ appid,name
 453480,Shadowverse CCG
 454650,DRAGON BALL XENOVERSE 2
 457140,Oxygen Not Included
-457330,High Octane Drift
 459820,Crush Crush
 460790,Bayonetta
 460920,Steep
@@ -638,6 +644,7 @@ appid,name
 482730,Football Manager 2017
 485510,Nioh: Complete Edition
 488790,South Park: The Fractured But Whole
+489520,Minion Masters
 489830,The Elder Scrolls V: Skyrim Special Edition
 490220,Prismata
 491950,Orwell: Keeping an Eye On You
@@ -656,7 +663,6 @@ appid,name
 511470,Glass Masquerade
 513710,SCUM
 516750,My Summer Car
-517630,Just Cause 4 Reloaded
 518790,theHunter: Call of the Wild
 519860,DUSK
 524220,NieR:Automata
@@ -684,10 +690,8 @@ appid,name
 568220,Lobotomy Corporation | Monster Management Simulation
 569480,Kingdoms and Castles
 570940,DARK SOULS: REMASTERED
-571740,Golf It!
 577800,NBA 2K18
 578080,PUBG: BATTLEGROUNDS
-578310,BRAIN / OUT
 581320,Insurgency: Sandstorm
 582010,Monster Hunter: World
 582160,Assassin's Creed Origins
@@ -705,7 +709,6 @@ appid,name
 601430,The Evil Within 2
 601510,Yu-Gi-Oh! Duel Links
 602960,Barotrauma
-603850,Age of History II
 606150,Moonlighter
 606280,Darksiders III
 611500,Quake Champions
@@ -730,7 +733,6 @@ appid,name
 637650,FINAL FANTASY XV WINDOWS EDITION
 638070,Murderous Pursuits
 638970,Yakuza 0
-640590,The LEGO NINJAGO Movie Video Game
 640820,Pathfinder: Kingmaker - Enhanced Plus Edition
 641990,The Escapists 2
 644560,Mirror
@@ -791,13 +793,14 @@ appid,name
 787860,Farming Simulator 19
 788100,Neon Abyss
 794600,LET IT DIE
-805550,Assetto Corsa Competizione
 809960,Radical Heights
 812140,Assassin's Creed Odyssey
+813630,Supraland
 813780,Age of Empires II: Definitive Edition
 813820,Realm Royale
 814380,Sekiro: Shadows Die Twice - GOTY Edition
 815370,Green Hell
+816020,JUMP FORCE
 823130,Totally Accurate Battlegrounds
 823500,BONEWORKS
 834910,ATLAS
@@ -825,7 +828,6 @@ appid,name
 901583,Grand Theft Auto IV: Complete Edition
 905370,Conqueror's Blade
 918570,Century: Age of Ashes
-921060,Modern Combat 5
 921630,音灵 INVAXION
 924970,Back 4 Blood
 933110,Age of Empires III: Definitive Edition
@@ -872,7 +874,6 @@ appid,name
 1118200,People Playground
 1128810,RISK: Global Domination
 1129580,Medieval Dynasty
-1133060,Anarchy: Wolf's law
 1139900,Ghostrunner
 1142710,Total War: WARHAMMER III
 1144200,Ready or Not
@@ -907,7 +908,6 @@ appid,name
 1237970,Titanfall 2
 1238000,Mass Effect: Andromeda Deluxe Edition
 1238810,Battlefield V
-1238820,Battlefield 3
 1238840,Battlefield 1
 1238860,Battlefield 4
 1240440,Halo Infinite
