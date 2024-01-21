@@ -19,8 +19,13 @@ Se hablara sobre la saga souls y sobre todo, se analizara la salida de Elden Rin
 
 La estructura de carpetas esta distribuida de la siguiente forma:
 
-Codigo: Donde tenemos las APIS y la parte "Intensa" de codigo.
-Datos Procesados: Los CSV limpiados y listos para usarse.
-EDA: El enunciado, se puede ignorar si es necesario.
-Presentacion y notebook: Ahi estara todo lo relacionado con mi presentacion, imagenes usadas y la memoria.
+### Codigo. 
+Donde tenemos las APIS y la parte "Intensa" de codigo.
+
+### Datos Procesados.
+Los CSV limpiados y listos para usarse.
+### EDA.
+El enunciado, se puede ignorar si es necesario.
+### Presentacion y notebook.
+Ahi estara todo lo relacionado con mi presentacion, imagenes usadas y la memoria.
 
