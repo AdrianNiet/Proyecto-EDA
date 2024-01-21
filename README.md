@@ -15,6 +15,14 @@ Sobre Lost Ark, analizaremos su lanzamiento y la cantidad de jugadores a lo larg
 
 Se hablara sobre la saga souls y sobre todo, se analizara la salida de Elden Ring, el juego mas exitoso de toda la saga.
 
+## Trabajo realizado.
+
+- Busqueda de datos
+- Limpiado y procesado de datos
+- analisis de los datos mediante mapas de calor y graficas.
+- Busqueda de relaciones
+- Extracción de datos mediante la API de steam y webscrapping.
+
 ## Estructura.
 
 La estructura de carpetas esta distribuida de la siguiente forma:
